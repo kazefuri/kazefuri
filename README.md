@@ -1,4 +1,4 @@
-### [kazefuri](https://kazefuri.art) - Donghua Subtitle Indonesa
+### [kazefuri](https://kazefuri.one) - Donghua Subtitle Indonesa
 
 <!--
 **kazefuri/kazefuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
